@@ -1,0 +1,27 @@
+SHRP_DEVICE_CODE := sky
+SHRP_PATH := device/xiaomi/$(SHRP_DEVICE_CODE)
+SHRP_MAINTAINER := pain...!
+
+SHRP_REC_TYPE := Normal
+SHRP_DEVICE_TYPE := A/B
+
+# SHRP_REC := 
+SHRP_HAS_RECOVERY_PARTITION := true
+SHRP_EDL_MODE := 1
+SHRP_INTERNAL := /sdcard
+
+# phone type
+SHRP_NOTCH := true
+# SHRP_EXPRESS := true
+# SHRP_EXPRESS_USE_DATA := true
+
+# paddings
+SHRP_STATUSBAR_RIGHT_PADDING := 40
+SHRP_STATUSBAR_LEFT_PADDING := 50
+
+# theme
+SHRP_EXPRESS := true
+SHRP_DARK := false
+
+# magisk
+SHRP_EXCLUDE_MAGISK_FLASH := true
