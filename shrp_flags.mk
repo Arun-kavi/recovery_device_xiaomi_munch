@@ -1,4 +1,4 @@
-SHRP_DEVICE_CODE := sky
+SHRP_DEVICE_CODE := munch
 SHRP_PATH := device/xiaomi/$(SHRP_DEVICE_CODE)
 SHRP_MAINTAINER := pain...!
 
